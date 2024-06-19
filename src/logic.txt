@@ -1,0 +1,5 @@
+// case 1
+query filename
+// case 2
+query 
+=> look for all files in current directory which have occurences
